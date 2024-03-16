@@ -19,6 +19,7 @@ struct TextComponent: View {
             .padding(20)
         
             .foregroundColor(.blue)
+//            .font(.title)
             .font(.system(size:20, weight: .semibold, design: .monospaced))
             .frame(width: 400, height: 500, alignment: .leading)
             .multilineTextAlignment(.leading)
@@ -35,7 +36,9 @@ struct TextComponent: View {
 //            .strikethrough(true, color: Color.blue)
 //            .underline()
             .underline(true, color: Color.gray)
-
+            .baselineOffset(10)
+        
+//            .baselineOffset(-10)
     }
 }
 

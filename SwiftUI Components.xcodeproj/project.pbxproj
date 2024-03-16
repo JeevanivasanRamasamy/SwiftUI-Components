@@ -12,6 +12,7 @@
 		CDE8941C2BA4BEE800C15DC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDE8941B2BA4BEE800C15DC8 /* Assets.xcassets */; };
 		CDE8941F2BA4BEE800C15DC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDE8941E2BA4BEE800C15DC8 /* Preview Assets.xcassets */; };
 		CDE894282BA56A5500C15DC8 /* TextComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE894272BA56A5500C15DC8 /* TextComponent.swift */; };
+		CDE8942A2BA57D3300C15DC8 /* ShapesComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE894292BA57D3300C15DC8 /* ShapesComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		CDE8941B2BA4BEE800C15DC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDE8941E2BA4BEE800C15DC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CDE894272BA56A5500C15DC8 /* TextComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextComponent.swift; sourceTree = "<group>"; };
+		CDE894292BA57D3300C15DC8 /* ShapesComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				CDE894172BA4BEE700C15DC8 /* SwiftUI_ComponentsApp.swift */,
 				CDE894272BA56A5500C15DC8 /* TextComponent.swift */,
+				CDE894292BA57D3300C15DC8 /* ShapesComponent.swift */,
 				CDE894192BA4BEE700C15DC8 /* ContentView.swift */,
 				CDE8941B2BA4BEE800C15DC8 /* Assets.xcassets */,
 				CDE8941D2BA4BEE800C15DC8 /* Preview Content */,
@@ -143,6 +146,7 @@
 				CDE894282BA56A5500C15DC8 /* TextComponent.swift in Sources */,
 				CDE8941A2BA4BEE700C15DC8 /* ContentView.swift in Sources */,
 				CDE894182BA4BEE700C15DC8 /* SwiftUI_ComponentsApp.swift in Sources */,
+				CDE8942A2BA57D3300C15DC8 /* ShapesComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
